@@ -1,0 +1,22 @@
+name: Feed
+version: 1.0.0
+main: GN\Feed\Main
+api:
+- 2.0.0
+- 3.0.0
+- 3.0.0-ALPHA1
+- 3.0.0-ALPHA2
+- 3.0.0-ALPHA3
+- 3.0.0-ALPHA4
+- 3.0.0-ALPHA5
+author: Ghast Noob
+
+commands:
+  feed:
+    permission: feed.cmd
+    description: "Chỉnh Đầy Thanh Thức Ăn"
+
+permissions:
+  feed.cmd:
+    description: "Chỉnh Đầy Thanh Thức Ăn"
+    default: op

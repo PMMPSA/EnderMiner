@@ -1,0 +1,64 @@
+---
+addwarp-cmd: addwarp
+addwarp-desc: Thêm warp mới.
+addwarp-usage: /addwarp <name> [<ip> <port>|<x> <y> <z> <level>|<player>]
+addwarp-event-cancelled: Một plugin đã hủy bỏ việc tạo ra warp này.
+closewarp-cmd: closewarp
+closewarp-desc: Đóng warps.
+closewarp-usage: /closewarp <name>
+closewarp-event-cancelled: Một Plugin đã huỷ tác vụ này.
+delwarp-cmd: delwarp
+delwarp-desc: Xóa warps.
+delwarp-usage: /delwarp <name>
+delewarp-event-cancelled: Một plugin đã hủy bỏ yêu cầu này.
+listwarps-cmd: listwarps
+listwarps-desc: Danh sách các warps
+listwarps-usage: /listwarps
+listwarps-list-title: |
+  Danh sách warp:
+listwarps-no-warps: §cKhông có warp.§r
+listwarps-noperm: §cBạn không có quyền để dùng lệnh này§r
+openwarp-cmd: openwarp
+openwarp-desc: Mở warps.
+openwarp-usage: /openwarp <name>
+delwarp-event-cancelled: Một plugin đã hủy bỏ yêu cầu này.
+warp-cmd: warp
+warp-desc: Warps trong thế giới.
+warp-usage: /warp <name> [player]
+warp-added-xyz: Bạn đã tạo một warp được gọi là §b%s§r %s
+warp-added-player: Bạn đã tạo một warp được gọi là §b%s§r %s
+warp-added-server: Bạn đã tạo một warp được gọi là §b%s§r %s
+warp-added-self: Bạn đã tạo một warp được gọi là, §b%s§r %s
+level-not-loaded: §cBạn chỉ định mức không thể tải.§r
+needs-fast-transfer: Warp này cần §bFastTransfer§r, Bạn sẽ phải cài đặt nó để sử dụng
+  warp này.
+player-not-loaded: §cBạn chỉ định mức không được tải.§r
+addwarp-noperm: §cBạn không có quyền để sử dụng lệnh này§r
+bad-warp-name: §cTên warp không hợp lệ.§r
+closed-warp-1: Bạn đã đóng một warp được gọi là §b%s§r
+closed-warp-2: '  Chỉ những người chơi có sự cho phép §b%s§r mới có thể sử dụng warp
+  này.'
+warp-doesnt-exist: §cWarp không tồn tại. §r
+closewarp-noperm: §cBạn không có quyền để dùng lệnh này§r
+warp-deleted: Bạn đã xóa một warp được gọi là §b%s§r
+delwarp-noperm: §cBạn không có quyền để dùng lệnh này§r
+opened-warp-1: Bạn đã mở warp §b%s§r
+opened-warp-2: '  Bất kỳ người chơi sẽ có thể sử dụng warp này.'
+openwarp-noperm: §cBạn không có quyền sử dụng lệnh này§r
+warping-popup: Đang dịch chuyển...
+other-player-warped: '%s  đã dịch chuyển đến §b%s§r.'
+no-permission-this-warp: §cBạn không có quyền để sử dụng lệnh này§r
+no-permission-warp-other: §cBạn không có quyền để sử dụng lệnh này.§r
+warp-done: Đã dịch chuyển
+warp-noperm: §cBạn không có quyền để sử dụng lệnh này§r
+level-not-loaded-warp: Các warp mà bạn đang sử dụng được gắn vào một mức mà không
+  được tải
+ess-warp-doesnt-exist: §cWarp không tồn tại.§r
+ess-warp-conflict: Warp được gọi là §b%s§r tồn tại trong cả hai §bEssentialsPE§r và
+  §bSimpleWarp§r. Một từ §bSimpleWarp§r sẽ được sử dụng theo mặc định. Nếu bạn muốn
+  sử dụng §bEssentialsPE§r warp, Tiền tố tên biến dạng với §3ess:§r
+addwarp-ess-prefix-warning: Hỗ trợ cho §bEssentialsPE§r Được bật trên máy chủ này.
+  Khi người dùng muốn sử dụng một cách rõ ràng §bEssentialsPE§r warp, Họ có thể tiền
+  tố lệnh của họ với §3ess:§r. Bằng cách chọn một cái tên dọc mà bắt đầu với cùng
+  một tiền tố, bạn đang làm cho những điều phức tạp. Có thể chọn một cái tên khác?
+...

@@ -1,0 +1,9 @@
+name: Sizer
+version: 1.0
+main: GN\Sizer\Sizer
+api: [2.0.0]
+author: Ghast Noob
+
+permission:
+  size.command: 
+    default: op

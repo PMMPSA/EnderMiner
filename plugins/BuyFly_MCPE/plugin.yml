@@ -1,0 +1,15 @@
+name: BuyFly
+main: BuyFly_MCPE14\BuyFly_MCPE14
+version: 1.0
+api: 2.0.0
+author: MCPE14
+
+commands:
+ buyfly:
+  description: Купить Флай!
+  permission: buyfly
+
+permissions:
+  buyfly:
+   default: true
+   description: Покупка  флая 

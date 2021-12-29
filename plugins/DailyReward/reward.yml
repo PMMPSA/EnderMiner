@@ -1,0 +1,20 @@
+---
+1:
+  type: item
+  id: 257
+  meta: 0
+  count: 1
+  custom_name: Cúp Quà Tặng
+  enchant:
+    ench_id: 1
+    ench_level: 1
+2:
+  type: item
+  id: 364
+  meta: 0
+  count: 10
+  custom_name: Quà Online - Steak
+  enchant:
+    ench_id: 1
+    ench_level: 1
+...

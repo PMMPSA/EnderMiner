@@ -1,0 +1,43 @@
+#    >=>>=>   >=>                         >=>           >=>        >=>
+#  >=>    >=> >=>                         >=>           >=>        >=>
+#   >=>       >=> >===>>=>>==>  >=> >=>   >=>   >==>    >=>   >>   >=>    >=> >=>  >> >==> >=> >=>
+#     >=>     >=>  >=>  >>  >=> >>   >=>  >=> >>   >=>  >=>  >=>   >=>  >=>   >=>   >=>    >>   >=>
+#        >=>  >=>  >=>  >>  >=> >>   >=>  >=> >>===>>=> >=> >> >=> >=> >=>    >=>   >=>    >>   >=>
+#  >=>    >=> >=>  >=>  >>  >=> >=> >=>   >=> >>        >> >>    >===>  >=>   >=>   >=>    >=> >=>
+#    >=>>=>   >=> >==>  >>  >=> >=>      >==>  >====>   >=>        >=>   >==>>>==> >==>    >=>
+#                               >=>      Warp cho PocketMine           >=>
+
+display-exact-coordinates: false
+
+# Nếu thiết lập sai thì tọa độ được hiển thị cho người dùng cuối
+# Sẽ được làm tròn, người chơi sẽ vẫn được chuyển đến
+# địa điểm chính xác.
+
+storage-mode: 0
+
+  # SimpleWarp có thể xử lý việc lưu trữ các dây chằng theo ba cách chính.
+  #
+  # MEMORY_TILL_CLOSE = 0
+  # Warps được nạp vào bộ nhớ khi máy chủ khởi động và
+  # Giữ ở đó cho đến khi máy chủ đóng cửa. Khi máy chủ đóng
+  # Chúng được chuyển đổi lại thành YAML. YAML mới này sẽ
+  # Thay thế warps.yml, điều này có nghĩa là những thay đổi bị mất và
+  # Warps mà không tải được bỏ đi.
+  #
+  #
+  # FLUSH_ON_CHANGE = 1
+  # Warps được nạp vào bộ nhớ khi máy chủ bắt đầu. Bất cứ khi nào
+  # Warp được cập nhật, nó sẽ được cập nhật trong warps.yml. Khi mà
+  # Máy chủ đóng cửa, tập tin warps là không ghi đè lên.
+  #
+  # NO_MEMORY_STORE = 2
+  # Warps không bao giờ được "lưu trữ" trong bộ nhớ. Chúng được chuyển đổi theo yêu cầu
+  # Giữa YAML và định dạng đối tượng. Bất kỳ thay đổi nào được thực hiện với cấu hình
+  # Sẽ sẵn có ngay trên máy chủ và ngược lại.
+  #
+
+essentials-support: false
+
+# Nếu hỗ trợ cần thiết được kích hoạt và EssentialsPE đã được cài đặt,
+# SimpleWarp sẽ thực hiện các bước để đảm bảo tính tương thích giữa các
+# Hai plugin.

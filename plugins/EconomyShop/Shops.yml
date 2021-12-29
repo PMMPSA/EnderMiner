@@ -1,0 +1,1882 @@
+---
+110:16:106:Shop:
+  x: 110
+  "y": 16
+  z: 106
+  level: Shop
+  price: 2000
+  item: 35
+  itemName: White Wool
+  meta: 0
+  amount: 32
+112:16:105:Shop:
+  x: 112
+  "y": 16
+  z: 105
+  level: Shop
+  price: 2000
+  item: 35
+  itemName: Gray Wool
+  meta: 7
+  amount: 32
+111:16:106:Shop:
+  x: 111
+  "y": 16
+  z: 106
+  level: Shop
+  price: 2000
+  item: 35
+  itemName: Light Gray Wool
+  meta: 8
+  amount: 32
+126:16:101:Shop:
+  x: 126
+  "y": 16
+  z: 101
+  level: Shop
+  price: 3000
+  item: 237
+  itemName: White Concrete Powder
+  meta: 0
+  amount: 32
+113:16:105:Shop:
+  x: 113
+  "y": 16
+  z: 105
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Black Wool
+  meta: 15
+  amount: 32
+114:16:104:Shop:
+  x: 114
+  "y": 16
+  z: 104
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Brown Wool
+  meta: 12
+  amount: 32
+127:16:101:Shop:
+  x: 127
+  "y": 16
+  z: 101
+  level: Shop
+  price: 3000
+  item: 237
+  itemName: Silver Concrete Powder
+  meta: 8
+  amount: 32
+115:16:103:Shop:
+  x: 115
+  "y": 16
+  z: 103
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Red Wool
+  meta: 14
+  amount: 32
+116:16:103:Shop:
+  x: 116
+  "y": 16
+  z: 103
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Orange Wool
+  meta: 1
+  amount: 32
+117:16:103:Shop:
+  x: 117
+  "y": 16
+  z: 103
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Yellow Wool
+  meta: 4
+  amount: 32
+118:16:102:Shop:
+  x: 118
+  "y": 16
+  z: 102
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Lime Wool
+  meta: 5
+  amount: 32
+142:16:104:Shop:
+  x: 142
+  "y": 16
+  z: 104
+  level: Shop
+  price: 5000
+  item: 236
+  itemName: White Concrete
+  meta: 0
+  amount: 32
+119:16:102:Shop:
+  x: 119
+  "y": 16
+  z: 102
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Green Wool
+  meta: 13
+  amount: 32
+143:16:105:Shop:
+  x: 143
+  "y": 16
+  z: 105
+  level: Shop
+  price: 5000
+  item: 236
+  itemName: Silver Concrete
+  meta: 8
+  amount: 32
+156:16:122:Shop:
+  x: 156
+  "y": 16
+  z: 122
+  level: Shop
+  price: 2000
+  item: 220
+  itemName: White Glazed Terracotta
+  meta: 0
+  amount: 32
+156:16:123:Shop:
+  x: 156
+  "y": 16
+  z: 123
+  level: Shop
+  price: 2000
+  item: 228
+  itemName: Silver Glazed Terracotta
+  meta: 0
+  amount: 32
+120:16:102:Shop:
+  x: 120
+  "y": 16
+  z: 102
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Cyan Wool
+  meta: 9
+  amount: 32
+156:16:124:Shop:
+  x: 156
+  "y": 16
+  z: 124
+  level: Shop
+  price: 2000
+  item: 227
+  itemName: Gray Glazed Terracotta
+  meta: 0
+  amount: 32
+121:16:101:Shop:
+  x: 121
+  "y": 16
+  z: 101
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Light Blue Wool
+  meta: 3
+  amount: 32
+122:16:101:Shop:
+  x: 122
+  "y": 16
+  z: 101
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Blue Wool
+  meta: 11
+  amount: 32
+123:16:101:Shop:
+  x: 123
+  "y": 16
+  z: 101
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Purple Wool
+  meta: 10
+  amount: 32
+124:16:101:Shop:
+  x: 124
+  "y": 16
+  z: 101
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Magenta Wool
+  meta: 2
+  amount: 32
+125:16:101:Shop:
+  x: 125
+  "y": 16
+  z: 101
+  level: Shop
+  price: 200
+  item: 35
+  itemName: Pink Wool
+  meta: 6
+  amount: 32
+105:16:111:Shop:
+  x: 105
+  "y": 16
+  z: 111
+  level: Shop
+  price: 100
+  item: 6
+  itemName: Oak Sapling
+  meta: 0
+  amount: 5
+128:16:101:Shop:
+  x: 128
+  "y": 16
+  z: 101
+  level: Shop
+  price: 300
+  item: 237
+  itemName: Gray Concrete Powder
+  meta: 7
+  amount: 32
+102:16:118:Shop:
+  x: 102
+  "y": 16
+  z: 118
+  level: Shop
+  price: 200
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 32
+102:16:117:Shop:
+  x: 102
+  "y": 16
+  z: 117
+  level: Shop
+  price: 100
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 32
+129:16:101:Shop:
+  x: 129
+  "y": 16
+  z: 101
+  level: Shop
+  price: 300
+  item: 237
+  itemName: Black Concrete Powder
+  meta: 15
+  amount: 32
+130:16:101:Shop:
+  x: 130
+  "y": 16
+  z: 101
+  level: Shop
+  price: 300
+  item: 237
+  itemName: Brown Concrete Powder
+  meta: 12
+  amount: 32
+131:16:101:Shop:
+  x: 131
+  "y": 16
+  z: 101
+  level: Shop
+  price: 300
+  item: 237
+  itemName: Red Concrete Powder
+  meta: 14
+  amount: 32
+132:16:101:Shop:
+  x: 132
+  "y": 16
+  z: 101
+  level: Shop
+  price: 300
+  item: 237
+  itemName: Orange Concrete Powder
+  meta: 1
+  amount: 32
+101:16:119:Shop:
+  x: 101
+  "y": 16
+  z: 119
+  level: Shop
+  price: 200
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 32
+101:16:120:Shop:
+  x: 101
+  "y": 16
+  z: 120
+  level: Shop
+  price: 150
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 32
+101:16:121:Shop:
+  x: 101
+  "y": 16
+  z: 121
+  level: Shop
+  price: 500
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 32
+100:16:122:Shop:
+  x: 100
+  "y": 16
+  z: 122
+  level: Shop
+  price: 90
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 32
+100:16:123:Shop:
+  x: 100
+  "y": 16
+  z: 123
+  level: Shop
+  price: 60
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 32
+100:16:124:Shop:
+  x: 100
+  "y": 16
+  z: 124
+  level: Shop
+  price: 400
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 32
+144:16:153:Shop:
+  x: 144
+  "y": 16
+  z: 153
+  level: Shop
+  price: 0
+  item: 260
+  itemName: Apple
+  meta: 0
+  amount: 5
+100:16:125:Shop:
+  x: 100
+  "y": 16
+  z: 125
+  level: Shop
+  price: 60
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 32
+152:16:145:Shop:
+  x: 152
+  "y": 16
+  z: 145
+  level: Shop
+  price: 2147483647
+  item: 7
+  itemName: Bedrock
+  meta: 0
+  amount: 1
+155:16:138:Shop:
+  x: 155
+  "y": 16
+  z: 138
+  level: Shop
+  price: 3000
+  item: 79
+  itemName: Ice
+  meta: 0
+  amount: 32
+155:16:139:Shop:
+  x: 155
+  "y": 16
+  z: 139
+  level: Shop
+  price: 3000
+  item: 174
+  itemName: Packed Ice
+  meta: 0
+  amount: 32
+151:16:147:shop:
+  x: 151
+  "y": 16
+  z: 147
+  level: shop
+  price: 200
+  item: 354
+  itemName: Cake
+  meta: 0
+  amount: 1
+151:16:146:shop:
+  x: 151
+  "y": 16
+  z: 146
+  level: shop
+  price: 400
+  item: 379
+  itemName: Brewing Stand
+  meta: 0
+  amount: 1
+152:16:144:shop:
+  x: 152
+  "y": 16
+  z: 144
+  level: shop
+  price: 300
+  item: 106
+  itemName: Vines
+  meta: 0
+  amount: 32
+153:16:143:shop:
+  x: 153
+  "y": 16
+  z: 143
+  level: shop
+  price: 700
+  item: 19
+  itemName: Sponge
+  meta: 0
+  amount: 32
+154:16:142:shop:
+  x: 154
+  "y": 16
+  z: 142
+  level: shop
+  price: 200
+  item: 389
+  itemName: Item Frame
+  meta: 0
+  amount: 32
+105:16:112:shop:
+  x: 105
+  "y": 16
+  z: 112
+  level: shop
+  price: 100
+  item: 6
+  itemName: Spruce Sapling
+  meta: 1
+  amount: 5
+104:16:113:shop:
+  x: 104
+  "y": 16
+  z: 113
+  level: shop
+  price: 100
+  item: 6
+  itemName: Birch Sapling
+  meta: 2
+  amount: 5
+154:16:141:shop:
+  x: 154
+  "y": 16
+  z: 141
+  level: shop
+  price: 300
+  item: 259
+  itemName: Flint and Steel
+  meta: 0
+  amount: 1
+154:16:140:shop:
+  x: 154
+  "y": 16
+  z: 140
+  level: shop
+  price: 450
+  item: 80
+  itemName: Snow Block
+  meta: 0
+  amount: 32
+104:16:114:Shop:
+  x: 104
+  "y": 16
+  z: 114
+  level: Shop
+  price: 100
+  item: 6
+  itemName: Jungle Sapling
+  meta: 3
+  amount: 5
+103:16:115:Shop:
+  x: 103
+  "y": 16
+  z: 115
+  level: Shop
+  price: 100
+  item: 6
+  itemName: Acacia Sapling
+  meta: 4
+  amount: 5
+102:16:116:Shop:
+  x: 102
+  "y": 16
+  z: 116
+  level: Shop
+  price: 100
+  item: 6
+  itemName: Dark Oak Sapling
+  meta: 5
+  amount: 5
+157:5:120:pvp:
+  x: 157
+  "y": 5
+  z: 120
+  level: pvp
+  price: 50
+  item: 311
+  itemName: Diamond Chestplate
+  meta: 0
+  amount: 1
+157:5:121:pvp:
+  x: 157
+  "y": 5
+  z: 121
+  level: pvp
+  price: 50
+  item: 312
+  itemName: Diamond Leggings
+  meta: 0
+  amount: 1
+157:5:122:pvp:
+  x: 157
+  "y": 5
+  z: 122
+  level: pvp
+  price: 50
+  item: 313
+  itemName: Diamond Boots
+  meta: 0
+  amount: 1
+157:5:123:pvp:
+  x: 157
+  "y": 5
+  z: 123
+  level: pvp
+  price: 50
+  item: 276
+  itemName: Diamond Sword
+  meta: 0
+  amount: 1
+157:5:124:pvp:
+  x: 157
+  "y": 5
+  z: 124
+  level: pvp
+  price: 1000
+  item: 261
+  itemName: Bow
+  meta: 0
+  amount: 1
+157:5:125:pvp:
+  x: 157
+  "y": 5
+  z: 125
+  level: pvp
+  price: 50
+  item: 262
+  itemName: Arrow
+  meta: 0
+  amount: 10
+157:5:128:pvp:
+  x: 157
+  "y": 5
+  z: 128
+  level: pvp
+  price: 0
+  item: 260
+  itemName: Apple
+  meta: 0
+  amount: 5
+157:5:126:pvp:
+  x: 157
+  "y": 5
+  z: 126
+  level: pvp
+  price: 1500
+  item: 322
+  itemName: Golden Apple
+  meta: 0
+  amount: 5
+120:4:334:shop:
+  x: 120
+  "y": 4
+  z: 334
+  level: shop
+  price: 5000
+  item: 2
+  itemName: Grass
+  meta: 0
+  amount: 32
+100:16:122:shop:
+  x: 100
+  "y": 16
+  z: 122
+  level: shop
+  price: 200
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 32
+123:4:334:shop:
+  x: 123
+  "y": 4
+  z: 334
+  level: shop
+  price: 3000
+  item: 3
+  itemName: Dirt
+  meta: 0
+  amount: 32
+132:4:334:shop:
+  x: 132
+  "y": 4
+  z: 334
+  level: shop
+  price: 2500
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 20
+135:4:334:shop:
+  x: 135
+  "y": 4
+  z: 334
+  level: shop
+  price: 2500
+  item: 17
+  itemName: Spruce Wood
+  meta: 1
+  amount: 20
+138:4:334:shop:
+  x: 138
+  "y": 4
+  z: 334
+  level: shop
+  price: 2500
+  item: 17
+  itemName: Birch Wood
+  meta: 2
+  amount: 20
+141:4:334:shop:
+  x: 141
+  "y": 4
+  z: 334
+  level: shop
+  price: 2500
+  item: 17
+  itemName: Jungle Wood
+  meta: 3
+  amount: 20
+129:4:334:shop:
+  x: 129
+  "y": 4
+  z: 334
+  level: shop
+  price: 1500
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 32
+126:4:334:shop:
+  x: 126
+  "y": 4
+  z: 334
+  level: shop
+  price: 2000
+  item: 1
+  itemName: Stone
+  meta: 0
+  amount: 32
+144:4:334:shop:
+  x: 144
+  "y": 4
+  z: 334
+  level: shop
+  price: 2500
+  item: 162
+  itemName: Acacia Wood
+  meta: 0
+  amount: 20
+147:4:334:shop:
+  x: 147
+  "y": 4
+  z: 334
+  level: shop
+  price: 2500
+  item: 162
+  itemName: Dark Oak Wood
+  meta: 1
+  amount: 20
+119:4:337:shop:
+  x: 119
+  "y": 4
+  z: 337
+  level: shop
+  price: 2000
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 32
+122:4:337:shop:
+  x: 122
+  "y": 4
+  z: 337
+  level: shop
+  price: 2500
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 32
+125:4:337:shop:
+  x: 125
+  "y": 4
+  z: 337
+  level: shop
+  price: 5000
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 32
+128:4:337:shop:
+  x: 128
+  "y": 4
+  z: 337
+  level: shop
+  price: 3000
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 32
+131:4:337:shop:
+  x: 131
+  "y": 4
+  z: 337
+  level: shop
+  price: 3700
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 32
+134:4:337:shop:
+  x: 134
+  "y": 4
+  z: 337
+  level: shop
+  price: 1000000
+  item: 138
+  itemName: Beacon
+  meta: 0
+  amount: 1
+140:4:337:shop:
+  x: 140
+  "y": 4
+  z: 337
+  level: shop
+  price: 3000
+  item: 121
+  itemName: End Stone
+  meta: 0
+  amount: 32
+143:4:337:shop:
+  x: 143
+  "y": 4
+  z: 337
+  level: shop
+  price: 2000
+  item: 155
+  itemName: Quartz Block
+  meta: 0
+  amount: 20
+146:4:337:shop:
+  x: 146
+  "y": 4
+  z: 337
+  level: shop
+  price: 3000
+  item: 88
+  itemName: Soul Sand
+  meta: 0
+  amount: 20
+149:4:337:shop:
+  x: 149
+  "y": 4
+  z: 337
+  level: shop
+  price: 3000
+  item: 87
+  itemName: Netherrack
+  meta: 0
+  amount: 32
+137:4:337:shop:
+  x: 137
+  "y": 4
+  z: 337
+  level: shop
+  price: 2000
+  item: 79
+  itemName: Ice
+  meta: 0
+  amount: 20
+120:4:340:shop:
+  x: 120
+  "y": 4
+  z: 340
+  level: shop
+  price: 4500
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 32
+123:4:340:shop:
+  x: 123
+  "y": 4
+  z: 340
+  level: shop
+  price: 3000
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 32
+126:4:340:shop:
+  x: 126
+  "y": 4
+  z: 340
+  level: shop
+  price: 1000
+  item: 20
+  itemName: Glass
+  meta: 0
+  amount: 20
+82:69:78:skyblock:
+  x: 82
+  "y": 69
+  z: 78
+  level: skyblock
+  price: 0
+  item: 325
+  itemName: Bucket
+  meta: 8
+  amount: 1
+84:69:78:skyblock:
+  x: 84
+  "y": 69
+  z: 78
+  level: skyblock
+  price: 0
+  item: 85
+  itemName: Oak Fence
+  meta: 0
+  amount: 5
+80:69:78:skyblock:
+  x: 80
+  "y": 69
+  z: 78
+  level: skyblock
+  price: 0
+  item: 278
+  itemName: Diamond Pickaxe
+  meta: 0
+  amount: 1
+9991:4:9987:shop:
+  x: 9991
+  "y": 4
+  z: 9987
+  level: shop
+  price: 5000
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 32
+9992:4:9987:shop:
+  x: 9992
+  "y": 4
+  z: 9987
+  level: shop
+  price: 5000
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 32
+9993:4:9987:shop:
+  x: 9993
+  "y": 4
+  z: 9987
+  level: shop
+  price: 5000
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 32
+9994:4:9987:shop:
+  x: 9994
+  "y": 4
+  z: 9987
+  level: shop
+  price: 5000
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 32
+86:69:78:skyblock:
+  x: 86
+  "y": 69
+  z: 78
+  level: skyblock
+  price: 0
+  item: 260
+  itemName: Apple
+  meta: 0
+  amount: 5
+9995:4:9987:shop:
+  x: 9995
+  "y": 4
+  z: 9987
+  level: shop
+  price: 5000
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 32
+9996:4:9987:shop:
+  x: 9996
+  "y": 4
+  z: 9987
+  level: shop
+  price: 5000
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 32
+9997:4:9987:shop:
+  x: 9997
+  "y": 4
+  z: 9987
+  level: shop
+  price: 5000
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 32
+9998:4:9989:shop:
+  x: 9998
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 6
+  itemName: Oak Sapling
+  meta: 0
+  amount: 1
+9999:4:9989:shop:
+  x: 9999
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 6
+  itemName: Spruce Sapling
+  meta: 1
+  amount: 1
+10000:4:9989:shop:
+  x: 10000
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 6
+  itemName: Birch Sapling
+  meta: 2
+  amount: 1
+10001:4:9989:shop:
+  x: 10001
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 6
+  itemName: Jungle Sapling
+  meta: 3
+  amount: 1
+10002:4:9989:shop:
+  x: 10002
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 6
+  itemName: Acacia Sapling
+  meta: 4
+  amount: 1
+10003:4:9989:shop:
+  x: 10003
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 6
+  itemName: Dark Oak Sapling
+  meta: 5
+  amount: 1
+9990:4:9989:shop:
+  x: 9990
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 295
+  itemName: Wheat Seeds
+  meta: 0
+  amount: 5
+9989:4:9989:shop:
+  x: 9989
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 361
+  itemName: Pumpkin Seeds
+  meta: 0
+  amount: 5
+9988:4:9989:shop:
+  x: 9988
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 362
+  itemName: Melon Seeds
+  meta: 0
+  amount: 5
+9987:4:9989:shop:
+  x: 9987
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 458
+  itemName: Beetroot Seeds
+  meta: 0
+  amount: 5
+9986:4:9989:shop:
+  x: 9986
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 391
+  itemName: Carrot
+  meta: 0
+  amount: 5
+9985:4:9989:shop:
+  x: 9985
+  "y": 4
+  z: 9989
+  level: shop
+  price: 500
+  item: 392
+  itemName: Potato
+  meta: 0
+  amount: 5
+9985:4:9987:shop:
+  x: 9985
+  "y": 4
+  z: 9987
+  level: shop
+  price: 5000
+  item: 351
+  itemName: Bone Meal
+  meta: 15
+  amount: 15
+9990:4:9987:shop:
+  x: 9990
+  "y": 4
+  z: 9987
+  level: shop
+  price: 500
+  item: 372
+  itemName: Nether Wart
+  meta: 0
+  amount: 5
+9989:4:9987:shop:
+  x: 9989
+  "y": 4
+  z: 9987
+  level: shop
+  price: 500
+  item: 338
+  itemName: Sugar Cane
+  meta: 0
+  amount: 5
+9988:4:9987:shop:
+  x: 9988
+  "y": 4
+  z: 9987
+  level: shop
+  price: 500
+  item: 81
+  itemName: Cactus
+  meta: 0
+  amount: 5
+9987:4:9987:shop:
+  x: 9987
+  "y": 4
+  z: 9987
+  level: shop
+  price: 5000
+  item: 103
+  itemName: Melon Block
+  meta: 0
+  amount: 5
+9986:4:9987:shop:
+  x: 9986
+  "y": 4
+  z: 9987
+  level: shop
+  price: 5000
+  item: 86
+  itemName: Pumpkin
+  meta: 0
+  amount: 5
+9991:4:9981:shop:
+  x: 9991
+  "y": 4
+  z: 9981
+  level: shop
+  price: 2147483647
+  item: 7
+  itemName: Bedrock
+  meta: 0
+  amount: 1
+9997:4:9981:shop:
+  x: 9997
+  "y": 4
+  z: 9981
+  level: shop
+  price: 5555555
+  item: 52
+  itemName: Monster Spawner
+  meta: 0
+  amount: 1
+9996:4:9981:shop:
+  x: 9996
+  "y": 4
+  z: 9981
+  level: shop
+  price: 50000
+  item: 208
+  itemName: End Rod
+  meta: 0
+  amount: 15
+9995:4:9981:shop:
+  x: 9995
+  "y": 4
+  z: 9981
+  level: shop
+  price: 999999
+  item: 130
+  itemName: Ender Chest
+  meta: 0
+  amount: 1
+9994:4:9981:shop:
+  x: 9994
+  "y": 4
+  z: 9981
+  level: shop
+  price: 999999
+  item: 122
+  itemName: Dragon Egg
+  meta: 0
+  amount: 1
+9993:4:9981:shop:
+  x: 9993
+  "y": 4
+  z: 9981
+  level: shop
+  price: 999999
+  item: 397
+  itemName: Skull
+  meta: 5
+  amount: 1
+9992:4:9981:shop:
+  x: 9992
+  "y": 4
+  z: 9981
+  level: shop
+  price: 9999999
+  item: 444
+  itemName: Elytra Wings
+  meta: 0
+  amount: 1
+135:4:340:Shop:
+  x: 135
+  "y": 4
+  z: 340
+  level: Shop
+  price: 3500
+  item: 47
+  itemName: Bookshelf
+  meta: 0
+  amount: 32
+134:4:337:Shop:
+  x: 134
+  "y": 4
+  z: 337
+  level: Shop
+  price: 1000000
+  item: 138
+  itemName: Beacon
+  meta: 0
+  amount: 1
+138:4:340:Shop:
+  x: 138
+  "y": 4
+  z: 340
+  level: Shop
+  price: 2300
+  item: 355
+  itemName: Bed
+  meta: 0
+  amount: 1
+141:4:340:Shop:
+  x: 141
+  "y": 4
+  z: 340
+  level: Shop
+  price: 2800
+  item: 321
+  itemName: Painting
+  meta: 0
+  amount: 32
+147:4:340:Shop:
+  x: 147
+  "y": 4
+  z: 340
+  level: Shop
+  price: 3500
+  item: 81
+  itemName: Cactus
+  meta: 0
+  amount: 16
+144:4:340:Shop:
+  x: 144
+  "y": 4
+  z: 340
+  level: Shop
+  price: 6000
+  item: 25
+  itemName: Noteblock
+  meta: 0
+  amount: 1
+146:4:343:Shop:
+  x: 146
+  "y": 4
+  z: 343
+  level: Shop
+  price: 4500
+  item: 86
+  itemName: Pumpkin
+  meta: 0
+  amount: 16
+149:4:343:Shop:
+  x: 149
+  "y": 4
+  z: 343
+  level: Shop
+  price: 3700
+  item: 103
+  itemName: Melon Block
+  meta: 0
+  amount: 16
+143:4:343:Shop:
+  x: 143
+  "y": 4
+  z: 343
+  level: Shop
+  price: 2000
+  item: 170
+  itemName: Hay Bale
+  meta: 0
+  amount: 32
+120:4:346:shop:
+  x: 120
+  "y": 4
+  z: 346
+  level: shop
+  price: 9999999
+  item: 397
+  itemName: Skull
+  meta: 5
+  amount: 1
+132:4:340:shop:
+  x: 132
+  "y": 4
+  z: 340
+  level: shop
+  price: 2000
+  item: 19
+  itemName: Sponge
+  meta: 0
+  amount: 20
+129:4:340:shop:
+  x: 129
+  "y": 4
+  z: 340
+  level: shop
+  price: 5000
+  item: 129
+  itemName: Emerald Ore
+  meta: 0
+  amount: 32
+140:4:343:shop:
+  x: 140
+  "y": 4
+  z: 343
+  level: shop
+  price: 2900
+  item: 35
+  itemName: White Wool
+  meta: 0
+  amount: 32
+119:4:343:shop:
+  x: 119
+  "y": 4
+  z: 343
+  level: shop
+  price: 10000
+  item: 397
+  itemName: Skull
+  meta: 4
+  amount: 1
+122:4:343:shop:
+  x: 122
+  "y": 4
+  z: 343
+  level: shop
+  price: 10000
+  item: 397
+  itemName: Skull
+  meta: 2
+  amount: 1
+125:4:343:shop:
+  x: 125
+  "y": 4
+  z: 343
+  level: shop
+  price: 100000
+  item: 397
+  itemName: Skull
+  meta: 1
+  amount: 1
+128:4:343:shop:
+  x: 128
+  "y": 4
+  z: 343
+  level: shop
+  price: 100000
+  item: 397
+  itemName: Skull
+  meta: 0
+  amount: 1
+131:4:343:shop:
+  x: 131
+  "y": 4
+  z: 343
+  level: shop
+  price: 999999
+  item: 130
+  itemName: Ender Chest
+  meta: 0
+  amount: 1
+134:4:343:shop:
+  x: 134
+  "y": 4
+  z: 343
+  level: shop
+  price: 2200
+  item: 165
+  itemName: Slime Block
+  meta: 0
+  amount: 32
+137:4:343:shop:
+  x: 137
+  "y": 4
+  z: 343
+  level: shop
+  price: 6000
+  item: 116
+  itemName: Enchanting Table
+  meta: 0
+  amount: 1
+141:4:346:shop:
+  x: 141
+  "y": 4
+  z: 346
+  level: shop
+  price: 2100
+  item: 208
+  itemName: End Rod
+  meta: 0
+  amount: 32
+147:4:346:shop:
+  x: 147
+  "y": 4
+  z: 346
+  level: shop
+  price: 2500
+  item: 380
+  itemName: Cauldron
+  meta: 0
+  amount: 1
+144:4:346:shop:
+  x: 144
+  "y": 4
+  z: 346
+  level: shop
+  price: 2800
+  item: 379
+  itemName: Brewing Stand
+  meta: 0
+  amount: 1
+138:4:346:shop:
+  x: 138
+  "y": 4
+  z: 346
+  level: shop
+  price: 3000
+  item: 145
+  itemName: Anvil
+  meta: 0
+  amount: 1
+135:4:346:shop:
+  x: 135
+  "y": 4
+  z: 346
+  level: shop
+  price: 500000
+  item: 444
+  itemName: Elytra Wings
+  meta: 0
+  amount: 1
+132:4:346:shop:
+  x: 132
+  "y": 4
+  z: 346
+  level: shop
+  price: 4800
+  item: 381
+  itemName: Eye Of Ender
+  meta: 0
+  amount: 32
+129:4:346:shop:
+  x: 129
+  "y": 4
+  z: 346
+  level: shop
+  price: 4500
+  item: 368
+  itemName: Ender Pearl
+  meta: 0
+  amount: 16
+126:4:346:shop:
+  x: 126
+  "y": 4
+  z: 346
+  level: shop
+  price: 2000
+  item: 259
+  itemName: Flint and Steel
+  meta: 0
+  amount: 1
+123:4:346:shop:
+  x: 123
+  "y": 4
+  z: 346
+  level: shop
+  price: 1000
+  item: 325
+  itemName: Bucket
+  meta: 8
+  amount: 1
+119:4:349:shop:
+  x: 119
+  "y": 4
+  z: 349
+  level: shop
+  price: 1500
+  item: 351
+  itemName: Bone Meal
+  meta: 15
+  amount: 16
+122:4:349:shop:
+  x: 122
+  "y": 4
+  z: 349
+  level: shop
+  price: 2500
+  item: 262
+  itemName: Arrow
+  meta: 0
+  amount: 16
+125:4:349:shop:
+  x: 125
+  "y": 4
+  z: 349
+  level: shop
+  price: 3000
+  item: 261
+  itemName: Bow
+  meta: 0
+  amount: 1
+140:4:349:shop:
+  x: 140
+  "y": 4
+  z: 349
+  level: shop
+  price: 100
+  item: 6
+  itemName: Spruce Sapling
+  meta: 1
+  amount: 1
+137:4:349:shop:
+  x: 137
+  "y": 4
+  z: 349
+  level: shop
+  price: 100
+  item: 6
+  itemName: Birch Sapling
+  meta: 2
+  amount: 1
+134:4:349:shop:
+  x: 134
+  "y": 4
+  z: 349
+  level: shop
+  price: 100
+  item: 6
+  itemName: Jungle Sapling
+  meta: 3
+  amount: 1
+131:4:349:shop:
+  x: 131
+  "y": 4
+  z: 349
+  level: shop
+  price: 100
+  item: 6
+  itemName: Acacia Sapling
+  meta: 4
+  amount: 1
+128:4:349:shop:
+  x: 128
+  "y": 4
+  z: 349
+  level: shop
+  price: 100
+  item: 6
+  itemName: Dark Oak Sapling
+  meta: 5
+  amount: 1
+143:4:349:shop:
+  x: 143
+  "y": 4
+  z: 349
+  level: shop
+  price: 100
+  item: 6
+  itemName: Oak Sapling
+  meta: 0
+  amount: 1
+149:4:349:shop:
+  x: 149
+  "y": 4
+  z: 349
+  level: shop
+  price: 1500
+  item: 101
+  itemName: Iron Bars
+  meta: 0
+  amount: 16
+146:4:349:shop:
+  x: 146
+  "y": 4
+  z: 349
+  level: shop
+  price: 100
+  item: 40
+  itemName: Red Mushroom
+  meta: 0
+  amount: 1
+147:4:352:shop:
+  x: 147
+  "y": 4
+  z: 352
+  level: shop
+  price: 999999
+  item: 399
+  itemName: Nether Star
+  meta: 0
+  amount: 1
+144:4:352:shop:
+  x: 144
+  "y": 4
+  z: 352
+  level: shop
+  price: 2000
+  item: 457
+  itemName: Beetroot
+  meta: 0
+  amount: 16
+141:4:352:shop:
+  x: 141
+  "y": 4
+  z: 352
+  level: shop
+  price: 2000
+  item: 392
+  itemName: Potato
+  meta: 0
+  amount: 16
+138:4:352:shop:
+  x: 138
+  "y": 4
+  z: 352
+  level: shop
+  price: 2000
+  item: 391
+  itemName: Carrot
+  meta: 0
+  amount: 16
+135:4:352:shop:
+  x: 135
+  "y": 4
+  z: 352
+  level: shop
+  price: 500
+  item: 360
+  itemName: Melon
+  meta: 0
+  amount: 16
+132:4:352:shop:
+  x: 132
+  "y": 4
+  z: 352
+  level: shop
+  price: 600
+  item: 364
+  itemName: Steak
+  meta: 0
+  amount: 16
+129:4:352:shop:
+  x: 129
+  "y": 4
+  z: 352
+  level: shop
+  price: 10000
+  item: 466
+  itemName: Enchanted Golden Apple
+  meta: 0
+  amount: 16
+126:4:352:shop:
+  x: 126
+  "y": 4
+  z: 352
+  level: shop
+  price: 5000
+  item: 322
+  itemName: Golden Apple
+  meta: 0
+  amount: 16
+123:4:352:shop:
+  x: 123
+  "y": 4
+  z: 352
+  level: shop
+  price: 1000
+  item: 296
+  itemName: Wheat
+  meta: 0
+  amount: 16
+120:4:352:shop:
+  x: 120
+  "y": 4
+  z: 352
+  level: shop
+  price: 1000
+  item: 338
+  itemName: Sugar Cane
+  meta: 0
+  amount: 16
+119:4:355:shop:
+  x: 119
+  "y": 4
+  z: 355
+  level: shop
+  price: 3000
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 32
+122:4:355:shop:
+  x: 122
+  "y": 4
+  z: 355
+  level: shop
+  price: 400
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 32
+125:4:355:shop:
+  x: 125
+  "y": 4
+  z: 355
+  level: shop
+  price: 100
+  item: 260
+  itemName: Apple
+  meta: 0
+  amount: 16
+128:4:355:shop:
+  x: 128
+  "y": 4
+  z: 355
+  level: shop
+  price: 400
+  item: 366
+  itemName: Cooked Chicken
+  meta: 0
+  amount: 16
+131:4:355:shop:
+  x: 131
+  "y": 4
+  z: 355
+  level: shop
+  price: 100
+  item: 458
+  itemName: Beetroot Seeds
+  meta: 0
+  amount: 1
+134:4:355:shop:
+  x: 134
+  "y": 4
+  z: 355
+  level: shop
+  price: 100
+  item: 259
+  itemName: Flint and Steel
+  meta: 0
+  amount: 1
+137:4:355:shop:
+  x: 137
+  "y": 4
+  z: 355
+  level: shop
+  price: 100
+  item: 361
+  itemName: Pumpkin Seeds
+  meta: 0
+  amount: 1
+137:6:355:shop:
+  x: 137
+  "y": 6
+  z: 355
+  level: shop
+  price: 150
+  item: 361
+  itemName: Pumpkin Seeds
+  meta: 0
+  amount: 16
+140:4:355:shop:
+  x: 140
+  "y": 4
+  z: 355
+  level: shop
+  price: 300
+  item: 320
+  itemName: Cooked Porkchop
+  meta: 0
+  amount: 16
+143:4:355:shop:
+  x: 143
+  "y": 4
+  z: 355
+  level: shop
+  price: 100
+  item: 297
+  itemName: Bread
+  meta: 0
+  amount: 16
+147:4:358:shop:
+  x: 147
+  "y": 4
+  z: 358
+  level: shop
+  price: 500
+  item: 12
+  itemName: Sand
+  meta: 0
+  amount: 16
+146:4:355:shop:
+  x: 146
+  "y": 4
+  z: 355
+  level: shop
+  price: 100
+  item: 351
+  itemName: Cocoa Beans
+  meta: 3
+  amount: 1
+149:4:355:shop:
+  x: 149
+  "y": 4
+  z: 355
+  level: shop
+  price: 200
+  item: 372
+  itemName: Nether Wart
+  meta: 0
+  amount: 1
+132:4:334:Shop:
+  x: 132
+  "y": 4
+  z: 334
+  level: Shop
+  price: 2500
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 20
+126:4:340:Shop:
+  x: 126
+  "y": 4
+  z: 340
+  level: Shop
+  price: 1000
+  item: 20
+  itemName: Glass
+  meta: 0
+  amount: 20
+...

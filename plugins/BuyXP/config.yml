@@ -1,0 +1,19 @@
+#Welcome to BuyXP!
+#Let your Players SELL or BUY XPLevels!
+
+#The Price if a Player want to buy XP Levels:
+price-per-xp-level: 350
+
+#The Money wich will given to the Player on Sell:
+sell-money-per-xp-level: 300
+
+#Messages:
+#Set the Plugins Messages!
+not-enough-money: "§f• §cBạn không có đủ tiền !"
+xp-bought: "§f•§a Bạn đã mua 1 cấp kinh nghiệm!"
+no-perm-command: "§f• §cNo Permission!"
+not-enough-xp: "§f•§c Bạn không có đủ kinh nghiệm!"
+xp-sold: "§f• §aBạn đã bán 1 cấp kinh nghiệm!"
+
+#This is a Plugin by LordHippo!
+#Please read the LICENSE on my Website (pocketclub.net)!

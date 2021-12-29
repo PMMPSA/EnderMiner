@@ -1,0 +1,52 @@
+name: AutoInv
+main: autoinv\AutoInv
+version: 1.0.1
+api: [1.12.0, 1.13.0]
+author: HotshotHD
+description: items go straight into player's inventory when they break blocks
+<?php
+
+namespace autoinv;
+
+use pocketmine\event\Listener;
+use pocketmine\event\block\BlockBreakEvent;
+use pocketmine\plugin\PluginBase;
+use pocketmine\Player;
+use pocketmine\item\Item;
+
+class AutoInv extends PluginBase implements Listener {
+	
+	public function onEnable() {
+		$this->getLogger()->info("Enabled");
+		$this->getServer()->getPluginManager()->registerEvents($this, $this);
+	}
+	
+	public function onBlockBreak(BlockBreakEvent $event) {
+		$player = $event->getPlayer();
+		$distance = $player->distance($player->getLevel()->getSpawnLocation());
+		
+		foreach($event->getDrops() as $drop) {
+			$id = $drop->getId();
+			
+			if($this->isInventoryFull($player) == true) {
+				$player->sendTip("§cYour inventory is full!");
+				} else {
+					if($player->getGamemode() == 0) {
+						if($distance > $this->getServer()->getSpawnRadius() && $event->isCancelled() == false) {
+			  				$player->getInventory()->addItem(Item::get($id));
+					  		$event->setDrops([]);
+						 }
+					}
+			}
+		}
+	}
+	
+	public function isInventoryFull(Player $player){
+   for($i = 0; $i < $player->getInventory()->getSize(); $i++){
+    	if($player->getInventory()->getItem($i)->getId() === 0){
+      	return false;
+       }
+     }
+     return true;
+  }
+	}

@@ -1,0 +1,15 @@
+name: WingFire
+main: FireWings\Main
+version: 1.3
+api: [1.0.0]
+author: "vk.com/eddir"
+commands:
+  wingfire:
+    description: Lấy Cánh Lửa
+    permission: wingfire.command
+    usage: /wingfire
+permissions:
+  wingfire.command:
+    default: op
+    description: Cho Phép Người Chơi Lấy Cánh Lửa
+#Việt Hóa Bởi ItzBin

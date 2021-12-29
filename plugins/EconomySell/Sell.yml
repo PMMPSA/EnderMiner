@@ -1,0 +1,502 @@
+---
+102:18:117:Shop:
+  x: 102
+  "y": 18
+  z: 117
+  level: Shop
+  cost: 50
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 32
+102:18:118:Shop:
+  x: 102
+  "y": 18
+  z: 118
+  level: Shop
+  cost: 70
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 32
+101:18:119:Shop:
+  x: 101
+  "y": 18
+  z: 119
+  level: Shop
+  cost: 120
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 32
+101:18:120:Shop:
+  x: 101
+  "y": 18
+  z: 120
+  level: Shop
+  cost: 90
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 32
+101:18:121:Shop:
+  x: 101
+  "y": 18
+  z: 121
+  level: Shop
+  cost: 380
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 32
+100:18:122:Shop:
+  x: 100
+  "y": 18
+  z: 122
+  level: Shop
+  cost: 70
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 32
+100:18:123:Shop:
+  x: 100
+  "y": 18
+  z: 123
+  level: Shop
+  cost: 40
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 32
+100:18:124:Shop:
+  x: 100
+  "y": 18
+  z: 124
+  level: Shop
+  cost: 320
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 32
+100:18:125:Shop:
+  x: 100
+  "y": 18
+  z: 125
+  level: Shop
+  cost: 40
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 32
+151:18:147:Shop:
+  x: 151
+  "y": 18
+  z: 147
+  level: Shop
+  cost: 50
+  item: 354
+  itemName: Cake
+  meta: 0
+  amount: 1
+152:18:144:Shop:
+  x: 152
+  "y": 18
+  z: 144
+  level: Shop
+  cost: 150
+  item: 106
+  itemName: Vines
+  meta: 0
+  amount: 32
+154:18:140:Shop:
+  x: 154
+  "y": 18
+  z: 140
+  level: Shop
+  cost: 250
+  item: 80
+  itemName: Snow Block
+  meta: 0
+  amount: 32
+129:6:334:Shop:
+  x: 129
+  "y": 6
+  z: 334
+  level: Shop
+  cost: 850
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 32
+9991:6:9987:Shop:
+  x: 9991
+  "y": 6
+  z: 9987
+  level: Shop
+  cost: 50
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 64
+9992:6:9987:Shop:
+  x: 9992
+  "y": 6
+  z: 9987
+  level: Shop
+  cost: 50
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 64
+9993:6:9987:Shop:
+  x: 9993
+  "y": 6
+  z: 9987
+  level: Shop
+  cost: 50
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 64
+9994:6:9987:Shop:
+  x: 9994
+  "y": 6
+  z: 9987
+  level: Shop
+  cost: 50
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 64
+9995:6:9987:Shop:
+  x: 9995
+  "y": 6
+  z: 9987
+  level: Shop
+  cost: 50
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 64
+9996:6:9987:Shop:
+  x: 9996
+  "y": 6
+  z: 9987
+  level: Shop
+  cost: 50
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 64
+9997:6:9987:Shop:
+  x: 9997
+  "y": 6
+  z: 9987
+  level: Shop
+  cost: 50
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 64
+147:6:340:Shop:
+  x: 147
+  "y": 6
+  z: 340
+  level: Shop
+  cost: 2000
+  item: 81
+  itemName: Cactus
+  meta: 0
+  amount: 32
+149:6:343:Shop:
+  x: 149
+  "y": 6
+  z: 343
+  level: Shop
+  cost: 2400
+  item: 103
+  itemName: Melon Block
+  meta: 0
+  amount: 32
+146:6:343:Shop:
+  x: 146
+  "y": 6
+  z: 343
+  level: Shop
+  cost: 3000
+  item: 86
+  itemName: Pumpkin
+  meta: 0
+  amount: 32
+143:6:343:Shop:
+  x: 143
+  "y": 6
+  z: 343
+  level: Shop
+  cost: 1500
+  item: 170
+  itemName: Hay Bale
+  meta: 0
+  amount: 16
+123:6:340:Shop:
+  x: 123
+  "y": 6
+  z: 340
+  level: Shop
+  cost: 2500
+  item: 152
+  itemName: Block of Redstone
+  meta: 0
+  amount: 32
+120:6:340:Shop:
+  x: 120
+  "y": 6
+  z: 340
+  level: Shop
+  cost: 4000
+  item: 133
+  itemName: Emerald Block
+  meta: 0
+  amount: 32
+126:6:334:Shop:
+  x: 126
+  "y": 6
+  z: 334
+  level: Shop
+  cost: 900
+  item: 1
+  itemName: Stone
+  meta: 0
+  amount: 32
+119:6:337:Shop:
+  x: 119
+  "y": 6
+  z: 337
+  level: Shop
+  cost: 1500
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 32
+122:6:337:Shop:
+  x: 122
+  "y": 6
+  z: 337
+  level: Shop
+  cost: 1700
+  item: 22
+  itemName: Lapis Lazuli Block
+  meta: 0
+  amount: 32
+125:6:337:Shop:
+  x: 125
+  "y": 6
+  z: 337
+  level: Shop
+  cost: 4000
+  item: 57
+  itemName: Diamond Block
+  meta: 0
+  amount: 32
+128:6:337:Shop:
+  x: 128
+  "y": 6
+  z: 337
+  level: Shop
+  cost: 2300
+  item: 42
+  itemName: Iron Block
+  meta: 0
+  amount: 32
+131:6:337:Shop:
+  x: 131
+  "y": 6
+  z: 337
+  level: Shop
+  cost: 3000
+  item: 41
+  itemName: Gold Block
+  meta: 0
+  amount: 32
+132:6:334:Shop:
+  x: 132
+  "y": 6
+  z: 334
+  level: Shop
+  cost: 1500
+  item: 17
+  itemName: Oak Wood
+  meta: 0
+  amount: 20
+135:6:334:Shop:
+  x: 135
+  "y": 6
+  z: 334
+  level: Shop
+  cost: 1500
+  item: 17
+  itemName: Spruce Wood
+  meta: 1
+  amount: 20
+138:6:334:Shop:
+  x: 138
+  "y": 6
+  z: 334
+  level: Shop
+  cost: 1500
+  item: 17
+  itemName: Birch Wood
+  meta: 2
+  amount: 20
+141:6:334:Shop:
+  x: 141
+  "y": 6
+  z: 334
+  level: Shop
+  cost: 1500
+  item: 17
+  itemName: Jungle Wood
+  meta: 3
+  amount: 20
+144:6:334:Shop:
+  x: 144
+  "y": 6
+  z: 334
+  level: Shop
+  cost: 1500
+  item: 162
+  itemName: Acacia Wood
+  meta: 0
+  amount: 20
+147:6:334:Shop:
+  x: 147
+  "y": 6
+  z: 334
+  level: Shop
+  cost: 1500
+  item: 162
+  itemName: Dark Oak Wood
+  meta: 1
+  amount: 20
+144:6:352:Shop:
+  x: 144
+  "y": 6
+  z: 352
+  level: Shop
+  cost: 1500
+  item: 457
+  itemName: Beetroot
+  meta: 0
+  amount: 16
+141:6:352:Shop:
+  x: 141
+  "y": 6
+  z: 352
+  level: Shop
+  cost: 1500
+  item: 392
+  itemName: Potato
+  meta: 0
+  amount: 16
+138:6:352:Shop:
+  x: 138
+  "y": 6
+  z: 352
+  level: Shop
+  cost: 1500
+  item: 391
+  itemName: Carrot
+  meta: 0
+  amount: 16
+135:6:352:Shop:
+  x: 135
+  "y": 6
+  z: 352
+  level: Shop
+  cost: 200
+  item: 360
+  itemName: Melon
+  meta: 0
+  amount: 16
+123:6:352:Shop:
+  x: 123
+  "y": 6
+  z: 352
+  level: Shop
+  cost: 500
+  item: 296
+  itemName: Wheat
+  meta: 0
+  amount: 16
+120:6:352:Shop:
+  x: 120
+  "y": 6
+  z: 352
+  level: Shop
+  cost: 800
+  item: 338
+  itemName: Sugar Cane
+  meta: 0
+  amount: 16
+119:6:355:Shop:
+  x: 119
+  "y": 6
+  z: 355
+  level: Shop
+  cost: 3600
+  item: 173
+  itemName: Coal Block
+  meta: 0
+  amount: 32
+122:6:355:Shop:
+  x: 122
+  "y": 6
+  z: 355
+  level: Shop
+  cost: 500
+  item: 4
+  itemName: Cobblestone
+  meta: 0
+  amount: 32
+131:6:355:Shop:
+  x: 131
+  "y": 6
+  z: 355
+  level: Shop
+  cost: 150
+  item: 458
+  itemName: Beetroot Seeds
+  meta: 0
+  amount: 16
+134:6:355:Shop:
+  x: 134
+  "y": 6
+  z: 355
+  level: Shop
+  cost: 150
+  item: 159
+  itemName: White Stained Clay
+  meta: 0
+  amount: 10
+149:6:355:Shop:
+  x: 149
+  "y": 6
+  z: 355
+  level: Shop
+  cost: 300
+  item: 372
+  itemName: Nether Wart
+  meta: 0
+  amount: 16
+146:6:355:Shop:
+  x: 146
+  "y": 6
+  z: 355
+  level: Shop
+  cost: 300
+  item: 351
+  itemName: Cocoa Beans
+  meta: 3
+  amount: 16
+...

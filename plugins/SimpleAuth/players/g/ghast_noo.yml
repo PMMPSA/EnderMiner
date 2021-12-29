@@ -1,0 +1,10 @@
+---
+registerdate: 1532176305
+logindate: 1534295637
+ip: 192.168.1.201
+hash: 27c8fd71ca4178c9e3fc915b3c70d185a5e3e53ef0f87812197882f814b23dbe59c851a764418e80cda13d507e8d3e3bcab6609388829e9a568588a1e1ecb08b
+cid: -7139608186658307072.000000
+skinhash: 4531e27d86b702e72f6cb102421a718d
+pin: ~
+lastip: !php/object "O:21:\"pocketmine\\utils\\UUID\":2:{s:28:\"\0pocketmine\\utils\\UUID\0parts\";a:4:{i:0;i:-428977577;i:1;i:-434816762;i:2;i:-1927951160;i:3;i:633308953;}s:30:\"\0pocketmine\\utils\\UUID\0version\";i:3;}"
+...

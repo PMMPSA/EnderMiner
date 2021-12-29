@@ -1,0 +1,11 @@
+---
+be:
+  current-vip: 18-08-16,3,Police
+  holding-vip:
+  - 7,Police
+  - 5,Helper
+beat_gamer_king:
+  current-vip: 18-08-16,2,Police
+Gh:
+  current-vip: 18-08-16,4999,OP
+...

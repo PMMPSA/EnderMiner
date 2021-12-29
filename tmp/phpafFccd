@@ -1,0 +1,49 @@
+
+# 888    d8P           d8b                           8888888b.                   888       .d8888b.                    888                       
+# 888   d8P            Y8P                           888  "Y88b                  888      d88P  Y88b                   888                       
+# 888  d8P                                           888    888                  888      Y88b.                        888                       
+# 888d88K      8888b.  888 888d888 888  888 .d8888b  888    888  8888b.  888d888 888  888  "Y888b.    .d88b.   .d88b.  888  888  .d88b.  888d888 
+# 8888888b        "88b 888 888P"   888  888 88K      888    888     "88b 888P"   888 .88P     "Y88b. d8P  Y8b d8P  Y8b 888 .88P d8P  Y8b 888P"   
+# 888  Y88b   .d888888 888 888     888  888 "Y8888b. 888    888 .d888888 888     888888K        "888 88888888 88888888 888888K  88888888 888     
+# 888   Y88b  888  888 888 888     Y88b 888      X88 888  .d88P 888  888 888     888 "88b Y88b  d88P Y8b.     Y8b.     888 "88b Y8b.     888     
+# 888    Y88b "Y888888 888 888      "Y88888  88888P' 8888888P"  "Y888888 888     888  888  "Y8888P"   "Y8888   "Y8888  888  888  "Y8888  888                                                                                                                                               
+
+name: AntiVoid
+api: 2.0.0
+version: "1.0.0"
+author: KairusDarkSeeker
+main: KairusDarkSeeker\AntiVoid\AntiVoid<?php
+
+namespace KairusDarkSeeker\AntiVoid;
+
+use pocketmine\Player;
+use pocketmine\plugin\PluginBase;
+use pocketmine\event\Listener;
+use pocketmine\math\Vector3;
+use pocketmine\event\entity\EntityDamageEvent;
+use pocketmine\event\player\PlayerMoveEvent;
+use pocketmine\utils\Config;
+
+class AntiVoid extends PluginBase implements Listener {
+	
+	public function onEnable() {
+		$this->getServer()->getPluginManager()->registerEvents($this, $this);
+		$this->getServer()->getLogger()->info("§aAntiVoid by KairusDarkSeeker was enabled!");
+	}
+	
+	public function onDisable() {
+		$this->getServer()->getLogger()->info("§cAntiVoid by KairusDarkSeeker was disabled!");
+	}
+	
+	public function onMove(PlayerMoveEvent $event) {
+		if($event->getPlayer()->getY() < -5) {
+			$event->getPlayer()->teleport($event->getPlayer()->getLevel()->getSafeSpawn());
+		}
+	}
+	
+	public function onDamage(EntityDamageEvent $event) {
+		if($event->getEntity() instanceof Player && $event->getEntity()->getY() < 0) {
+			$event->setCancelled();
+		}
+	}
+}

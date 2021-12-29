@@ -1,0 +1,705 @@
+2018-08-16 [05:14:44] [♥PTK-KienPham♥-WARNING]: OpenSSL extension not found
+2018-08-16 [05:14:44] [♥PTK-KienPham♥-WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2018-08-16 [05:14:44] [♥PTK-KienPham♥-INFO]: Selected English (eng) as the base language
+2018-08-16 [05:14:44] [♥PTK-KienPham♥-INFO]: Starting remote control listener
+2018-08-16 [05:14:44] [♥PTK-KienPham♥-INFO]: RCON running on 0.0.0.0:19132
+2018-08-16 [05:14:44] [♥PTK-KienPham♥-WARNING]: Debugging assertions are enabled, this may impact on performance. To disable them, set `zend.assertions = -1` in php.ini.
+2018-08-16 [05:14:44] [♥PTK-KienPham♥-INFO]: Opening server on 0.0.0.0:19132
+2018-08-16 [05:14:44] [♥PTK-KienPham♥-INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2018-08-16 [05:14:46] [♥PTK-KienPham♥-INFO]: Loading recipes...
+2018-08-16 [05:14:47] [♥PTK-KienPham♥-INFO]: Loading resource packs...
+2018-08-16 [05:14:48] [♥PTK-KienPham♥-NOTICE]: Level "skyblock" not found
+2018-08-16 [05:14:48] [♥PTK-KienPham♥-INFO]: Preparing level "skyblock"
+2018-08-16 [05:14:48] [♥PTK-KienPham♥-NOTICE]: Spawn terrain for level "skyblock" is being generated in the background
+2018-08-16 [05:14:48] [♥PTK-KienPham♥-NOTICE]: Level "nether" not found
+2018-08-16 [05:14:48] [♥PTK-KienPham♥-INFO]: Preparing level "nether"
+2018-08-16 [05:14:48] [♥PTK-KienPham♥-NOTICE]: Spawn terrain for level "nether" is being generated in the background
+2018-08-16 [05:14:48] [♥PTK-KienPham♥-NOTICE]: Level "ender" not found
+2018-08-16 [05:14:48] [♥PTK-KienPham♥-INFO]: Preparing level "ender"
+2018-08-16 [05:14:48] [♥PTK-KienPham♥-NOTICE]: Spawn terrain for level "ender" is being generated in the background
+2018-08-16 [05:14:50] [♥PTK-KienPham♥-INFO]: Starting GS4 status listener
+2018-08-16 [05:14:50] [♥PTK-KienPham♥-INFO]: Setting query port to 19132
+2018-08-16 [05:14:50] [♥PTK-KienPham♥-INFO]: Query running on 0.0.0.0:19132
+2018-08-16 [05:14:50] [♥PTK-KienPham♥-INFO]: Default game type: Survival Mode
+2018-08-16 [05:14:50] [♥PTK-KienPham♥-INFO]: Done (11.923s)! For help, type "help" or "?"
+2018-08-16 [05:15:25] [♥PTK-KienPham♥-NOTICE]: Player data not found for "dieptubetm", creating new profile
+2018-08-16 [05:15:26] [♥PTK-KienPham♥-INFO]: DiepTubeTM[/192.168.1.37:51583] [ClientID: -6.4036945524291E+18] logged in with entity id 1 at (skyblock, 128, 4, 128)
+2018-08-16 [05:15:26] [♥PTK-KienPham♥-INFO]: There are 1/50 players online:
+2018-08-16 [05:15:26] [♥PTK-KienPham♥-INFO]: DiepTubeTM
+2018-08-16 [05:15:54] [♥PTK-KienPham♥-INFO]: DiepTubeTM[/192.168.1.37:51583] logged out due to timeout
+2018-08-16 [05:15:54] [♥PTK-KienPham♥-INFO]: There are 0/50 players online:
+2018-08-16 [05:15:54] [♥PTK-KienPham♥-INFO]: 
+2018-08-16 [05:16:23] [♥PTK-KienPham♥-INFO]: [CONSOLE: Stopping the server]
+2018-08-16 [05:16:23] [♥PTK-KienPham♥-INFO]: Unloading level "skyblock"
+2018-08-16 [05:16:23] [♥PTK-KienPham♥-INFO]: Unloading level "nether"
+2018-08-16 [05:16:24] [♥PTK-KienPham♥-INFO]: Unloading level "ender"
+2018-08-16 [05:16:51] [♥PTK-KienPham♥-INFO]: Stopping other threads
+2018-08-16 [05:16:56] [♥PTK-KienPham♥-WARNING]: OpenSSL extension not found
+2018-08-16 [05:16:56] [♥PTK-KienPham♥-WARNING]: Please configure OpenSSL extension for PHP if you want to use Xbox Live authentication or global resource pack.
+2018-08-16 [05:16:56] [♥PTK-KienPham♥-INFO]: Selected English (eng) as the base language
+2018-08-16 [05:16:56] [♥PTK-KienPham♥-INFO]: Starting remote control listener
+2018-08-16 [05:16:56] [♥PTK-KienPham♥-INFO]: RCON running on 0.0.0.0:19132
+2018-08-16 [05:16:57] [♥PTK-KienPham♥-WARNING]: Debugging assertions are enabled, this may impact on performance. To disable them, set `zend.assertions = -1` in php.ini.
+2018-08-16 [05:16:57] [♥PTK-KienPham♥-INFO]: Opening server on 0.0.0.0:19132
+2018-08-16 [05:16:57] [♥PTK-KienPham♥-INFO]: GenisysPro is distributed under the GPL License version 3 and later
+2018-08-16 [05:16:59] [♥PTK-KienPham♥-INFO]: Loading recipes...
+2018-08-16 [05:17:00] [♥PTK-KienPham♥-INFO]: Loading resource packs...
+2018-08-16 [05:17:00] [♥PTK-KienPham♥-ERROR]: Could not load plugin 'EconomySell': plugin exists
+2018-08-16 [05:17:00] [♥PTK-KienPham♥-ERROR]: Could not load plugin 'EconomyShop': plugin exists
+2018-08-16 [05:17:00] [♥PTK-KienPham♥-ERROR]: Could not load plugin 'EconomyAPI': plugin exists
+2018-08-16 [05:17:00] [♥PTK-KienPham♥-ERROR]: Could not load plugin 'EconomyPShop': plugin exists
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-ERROR]: Could not load plugin 'MagicWE': plugin exists
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-ERROR]: Could not load plugin 'SimpleAuth': plugin exists
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-ERROR]: Could not load plugin 'SimpleAuthHelper': plugin exists
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading essentialsTP v1.1.0
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading PurePerms v1.3.5
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-NOTICE]: PurePerms by 64FF00 (Twitter: @64FF00)
+
+  888  888    .d8888b.      d8888  8888888888 8888888888 .d8888b.   .d8888b. 
+  888  888   d88P  Y88b    d8P888  888        888       d88P  Y88b d88P  Y88b
+888888888888 888          d8P 888  888        888       888    888 888    888
+  888  888   888d888b.   d8P  888  8888888    8888888   888    888 888    888
+  888  888   888P "Y88b d88   888  888        888       888    888 888    888
+888888888888 888    888 8888888888 888        888       888    888 888    888
+  888  888   Y88b  d88P       888  888        888       Y88b  d88P Y88b  d88P
+  888  888    "Y8888P"        888  888        888        "Y8888P"   "Y8888P" 
+
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: [PurePerms] Setting default language to 'en'
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-NOTICE]: [PurePerms] Multiworld support is currently disabled.
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-NOTICE]: [PurePerms] Don't forget to set enable-multiworld-perms option in config.yml to true if you want to use per-world permissions!
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading Fly v1
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading ManyWorlds v2.0.3
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading EconomyAPI v2.0.9
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading EconomyPShop v2.0.2
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading EconomySell v2.0.7
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading EconomyShop v2.0.7
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading SimpleAuth v1.7.1
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading SimpleAuthHelper v2.0.4
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading MSpawns v1.5
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading AutoInv v1.0.1
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading superBAR v1.6.2
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading iProtector v3.1a
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading Slapper_Việt_Hóa_By_Sói_Con v1.1
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading EconomyAirport v2.0.4
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading EconomyAuction v2.0.2
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading EconomyCasino v2.0.2
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading EconomyJob v2.0.4
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading EconomyUsury v1.0.1
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading MagicWE v0.2.6
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: [MagicWE] MagicWE has been loaded!
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading TheMask v1.0.0
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading DailyReward v1.3
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading WorldProtect v2.2.0
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading AntiServerStop v1.1
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading AntiVoid v1.0.0
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading Broadcaster v1.16
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading FrameKeeper v1.1
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading RealTime v2.1.1
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading REDNoBreak v0.1
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading SETVIP v2.3
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading SignStatus v3.0.1
+2018-08-16 [05:17:01] [♥PTK-KienPham♥-INFO]: Loading Sell v2
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) Feed v1.0.0
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) MineLevel v0.1
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) Sizer v1
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) Healer v1
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) BanItem v2.2
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) EssentialsPE v2.0.0
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) BuyEnchant v1
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) WingFire v1.3
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) BuyFly v1
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) OPList v1.0.2
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) Spawner_By_Ghast v2
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) WorldGuard v1
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading (Source) xyz v1.0.1
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: [xyz] ❖XYZ❖ XYZ Đang Load
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading PureChat v1.4.0
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Loading SkyBlock v2
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Enabling SimpleAuth v1.7.1
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: [SimpleAuth] Everything loaded!
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Enabling MSpawns v1.5
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Enabling MagicWE v0.2.6
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: [MagicWE] MagicWE enabled!
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Enabling WorldProtect v2.2.0
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: [WorldProtect] Enabled 4 features
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Enabling Broadcaster v1.16
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Enabling REDNoBreak v0.1
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: [REDNoBreak] Kích hoạt: TNT không nổ block!
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Enabling SkyBlock v2
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: [SkyBlock] Loading MyPlot
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Preparing level "skyblock"
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Preparing level "nether"
+2018-08-16 [05:17:02] [♥PTK-KienPham♥-INFO]: Preparing level "ender"
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-INFO]: Enabling essentialsTP v1.1.0
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-INFO]: [essentialsTP] essentialsTP+ loading...
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-INFO]: [essentialsTP] [INFO] Đang tải [config.yml]....
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-INFO]: [essentialsTP] [INFO] Đang tải [config.yml] ... xong!
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-INFO]: [essentialsTP] essentialsTP+ đã tải xong!
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-INFO]: Enabling PurePerms v1.3.5
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-NOTICE]: [PurePerms] Set data provider to YAMLv1.
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-INFO]: Enabling Fly v1
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-INFO]: [Fly] Plugin Fly v1 by KdroidPE ativado.
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-INFO]: Enabling ManyWorlds v2.0.3
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-INFO]: Enabling EconomyAPI v2.0.9
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-NOTICE]: [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2018-08-16 [05:17:03] [♥PTK-KienPham♥-INFO]: [EconomyAPI] Checking for updates... It may be take some while.
+2018-08-16 [05:17:08] [♥PTK-KienPham♥-NOTICE]: [EconomyAPI] 
+2018-08-16 [05:17:08] [♥PTK-KienPham♥-INFO]: Enabling EconomyPShop v2.0.2
+2018-08-16 [05:17:08] [♥PTK-KienPham♥-CRITICAL]: [EconomyPShop] [DEPENDENCY] Please install ItemCloud plugin to use PShop plugin.
+2018-08-16 [05:17:08] [♥PTK-KienPham♥-INFO]: Enabling EconomySell v2.0.7
+2018-08-16 [05:17:08] [♥PTK-KienPham♥-INFO]: Enabling EconomyShop v2.0.7
+2018-08-16 [05:17:08] [♥PTK-KienPham♥-INFO]: Enabling SimpleAuthHelper v2.0.4
+2018-08-16 [05:17:08] [♥PTK-KienPham♥-INFO]: Enabling AutoInv v1.0.1
+2018-08-16 [05:17:08] [♥PTK-KienPham♥-INFO]: [AutoInv] Enabled
+2018-08-16 [05:17:08] [♥PTK-KienPham♥-INFO]: Enabling superBAR v1.6.2
+2018-08-16 [05:17:08] [♥PTK-KienPham♥-INFO]: [superBAR] superBAR sẽ được kích hoạt sau khi máy chủ tải xong
+2018-08-16 [05:17:08] [♥PTK-KienPham♥-INFO]: Enabling iProtector v3.1a
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling Slapper_Việt_Hóa_By_Sói_Con v1.1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling EconomyAirport v2.0.4
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling EconomyAuction v2.0.2
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling EconomyCasino v2.0.2
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling EconomyJob v2.0.4
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling EconomyUsury v1.0.1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling TheMask v1.0.0
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [TheMask] Mask
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [TheMask] Mask
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling DailyReward v1.3
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: DailyReward đã kích hoạt!
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling AntiServerStop v1.1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [AntiServerStop] AntiServerStop by paetti loaded.
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling AntiVoid v1.0.0
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: AntiVoid by KairusDarkSeeker was enabled!
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling FrameKeeper v1.1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [FrameKeeper v1.1] Đã kích hoạt thành công!
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling RealTime v2.1.1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [RealTime] RealTime enabled.
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [RealTime] [RealTime] It is 5 (20h is same as 8pm)
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [RealTime] 6000
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling SETVIP v2.3
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling SignStatus v3.0.1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-NOTICE]: [SignStatus] SignStatus loaded
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling Sell v2
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [Sell] 
+   _____      _ _ 
+  / ____|    | | |
+ | (___   ___| | |
+  \___ \ / _ \ | |
+  ____) |  __/ | |
+ |_____/ \___|_|_|
+ Loaded Sell by Muqsit.
+ 		
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling Feed v1.0.0
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-NOTICE]: [Feed]  
+  ______            _ 
+ |  ____|          | |
+ | |__ ___  ___  __| |
+ |  __/ _ \/ _ \/ _` |
+ | | |  __/  __/ (_| |
+ |_|  \___|\___|\__,_|
+ 
+ Plugin Làm Bởi Ghast Noob
+ 
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling MineLevel v0.1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [MineLevel] đã hoạt động!
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [MineLevel] Có gì lỗi cứ báo lại facebook: Đàm Viết Khôi và Nguyễn Minh
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling Sizer v1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [Sizer] Size Đã Hoạt Động
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling Healer v1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [Healer] Healer v1 Đã Hoạt Động
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling BanItem v2.2
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling EssentialsPE v2.0.0
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [EssentialsPE] Loading...
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling BuyEnchant v1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling WingFire v1.3
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling BuyFly v1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [BuyFly] BuyFly_MCPE14 Việt hóa!
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling OPList v1.0.2
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [OPList] Plugin OP List Được Làm Bởi Ghast Noob
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling Spawner_By_Ghast v2
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling WorldGuard v1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling xyz v1.0.1
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: [xyz] ❖XYZ❖ XYZ Đã Bật
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-INFO]: Enabling PureChat v1.4.0
+2018-08-16 [05:17:09] [♥PTK-KienPham♥-NOTICE]: [PureChat] No valid factions plugin in default-factions-plugin node was found. Disabling factions plugin support.
+2018-08-16 [05:17:16] [♥PTK-KienPham♥-INFO]: Starting GS4 status listener
+2018-08-16 [05:17:16] [♥PTK-KienPham♥-INFO]: Setting query port to 19132
+2018-08-16 [05:17:16] [♥PTK-KienPham♥-INFO]: Query running on 0.0.0.0:19132
+2018-08-16 [05:17:16] [♥PTK-KienPham♥-INFO]: Default game type: Survival Mode
+2018-08-16 [05:17:16] [♥PTK-KienPham♥-INFO]: Done (25.028s)! For help, type "help" or "?"
+2018-08-16 [05:17:16] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Sử Dụng Lệnh /hub Hoặc /lobby Để Trở Về Sảnh Chính
+2018-08-16 [05:17:16] [♥PTK-KienPham♥-INFO]: [superBAR] superBAR đang tải...
+2018-08-16 [12:17:16] [♥PTK-KienPham♥-INFO]: [superBAR] EconomyAPI xong!
+2018-08-16 [12:17:16] [♥PTK-KienPham♥-INFO]: [superBAR] PurePerms xong!
+2018-08-16 [12:17:16] [♥PTK-KienPham♥-INFO]: [superBAR] superBAR bởi FaigerSYS đã kích hoạt!
+2018-08-16 [12:17:16] [♥PTK-KienPham♥-INFO]: [EssentialsPE] No new version found, you're using the latest version of EssentialsPE
+2018-08-16 [12:17:46] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Sử Dụng Lệnh /mualong Để Mua Lồng Spawn Có Chứa Động Vật
+2018-08-16 [12:17:55] [♥PTK-KienPham♥-INFO]: [EssentialsPE] Running
+2018-08-16 [12:17:55] [♥PTK-KienPham♥-CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerPreLoginEvent' to 'EssentialsPE v2.0.0': Undefined class constant 'DATA_SHOW_NAMETAG' on EssentialsPE\EventHandlers\PlayerEvents
+2018-08-16 [12:17:55] [♥PTK-KienPham♥-CRITICAL]: Error: "Undefined class constant 'DATA_SHOW_NAMETAG'" (EXCEPTION) in "/EssentialsPE_v2.0.0/src/EssentialsPE/BaseFiles/BaseAPI" at line 2154
+2018-08-16 [12:18:08] [♥PTK-KienPham♥-INFO]: DiepTubeTM[/192.168.1.37:34160] [ClientID: -6.4036945524291E+18] logged in with entity id 1 at (skyblock, 91, 70, 89)
+2018-08-16 [12:18:08] [♥PTK-KienPham♥-INFO]: There are 1/50 players online:
+2018-08-16 [12:18:08] [♥PTK-KienPham♥-INFO]: DiepTubeTM
+2018-08-16 [12:18:16] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Vote Cho Server Tại: bit.do/vote-em
+2018-08-16 [12:18:24] [♥PTK-KienPham♥-INFO]: DiepTubeTM joined the game
+2018-08-16 [12:18:24] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:24] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:24] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:24] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:24] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:24] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:24] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:24] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:25] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:25] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:25] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:25] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:25] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:25] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:25] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:25] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:25] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:25] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:25] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:26] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:27] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:27] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:27] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:27] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:27] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:27] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:27] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:27] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:27] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:27] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:28] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:28] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:28] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:28] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:28] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:28] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:28] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:28] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:28] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:28] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:28] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:29] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:29] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:29] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:29] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:29] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:29] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:29] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:29] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:29] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:30] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:30] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:30] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:30] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:30] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:30] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:30] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:30] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:30] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:30] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:30] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:31] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:32] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:33] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:34] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:35] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:35] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:35] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:35] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:35] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:35] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:35] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:35] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:35] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:36] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-INFO]: [мεмbεɾ] [Cấp 1] DiepTubeTM > hi
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:37] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:38] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:39] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:40] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:41] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:41] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:41] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:41] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:41] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:41] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:41] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:41] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:41] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:42] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:42] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:42] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:42] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:42] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:42] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:42] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:42] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:42] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:42] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:42] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:43] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:44] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:44] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:44] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:44] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:44] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:44] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:44] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:44] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:44] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:44] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:45] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:46] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:46] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Nạp Thẻ Cho Server Tại: bit.do/napthe-em
+2018-08-16 [12:18:46] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:46] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:46] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:46] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:46] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:46] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:46] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:49] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:49] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:49] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:49] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:49] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:49] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:50] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:18:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:16] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Sử Dụng Lệnh /warp Để Biết Các Warp Của Server Và /warp <Tên Warp> Để Đến Nơi Bạn Muốn
+2018-08-16 [12:19:34] [♥PTK-KienPham♥-INFO]: [CONSOLE: Opped DiepTubeTM]
+2018-08-16 [12:19:46] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Vote Cho Server Để Server Phát Triển Hơn
+2018-08-16 [12:19:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:51] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:52] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:53] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:19:54] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved too fast, reverting movement
+2018-08-16 [12:20:12] [♥PTK-KienPham♥-INFO]: Preparing level "sb"
+2018-08-16 [12:20:12] [♥PTK-KienPham♥-NOTICE]: Spawn terrain for level "sb" is being generated in the background
+2018-08-16 [12:20:16] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Hãy Nói Không Với Hack Và Chơi Một Cách Văn Minh
+2018-08-16 [12:20:46] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Chỉ Với 500 Xu Bạn Có Thể Bay Khắp Server Bằng Lệnh /buyfly
+2018-08-16 [12:21:19] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Hãy Nói Chuyện Một Cách Văn Minh Và Không Nói Tục
+2018-08-16 [12:21:59] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Các Hành Vi Hack Và Nói Tục Sẽ Bị Sử Phạt Nặng
+2018-08-16 [12:22:45] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Cùng Nhau Đi Mua Sắm Bằng Lệnh /warp shop Nào ^^
+2018-08-16 [12:23:15] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Sử Dụng Lệnh /hub Hoặc /lobby Để Trở Về Sảnh Chính
+2018-08-16 [12:23:45] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Sử Dụng Lệnh /mualong Để Mua Lồng Spawn Có Chứa Động Vật
+2018-08-16 [12:24:15] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Vote Cho Server Tại: bit.do/vote-em
+2018-08-16 [12:24:45] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Nạp Thẻ Cho Server Tại: bit.do/napthe-em
+2018-08-16 [12:25:15] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Sử Dụng Lệnh /warp Để Biết Các Warp Của Server Và /warp <Tên Warp> Để Đến Nơi Bạn Muốn
+2018-08-16 [12:25:45] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Vote Cho Server Để Server Phát Triển Hơn
+2018-08-16 [12:26:15] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Hãy Nói Không Với Hack Và Chơi Một Cách Văn Minh
+2018-08-16 [12:26:45] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Chỉ Với 500 Xu Bạn Có Thể Bay Khắp Server Bằng Lệnh /buyfly
+2018-08-16 [12:26:57] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved wrongly!
+2018-08-16 [12:27:03] [♥PTK-KienPham♥-WARNING]: DiepTubeTM moved wrongly!
+2018-08-16 [12:27:37] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Hãy Nói Chuyện Một Cách Văn Minh Và Không Nói Tục
+2018-08-16 [12:28:16] [♥PTK-KienPham♥-INFO]: [EssentialsPE] Running
+2018-08-16 [12:28:16] [♥PTK-KienPham♥-CRITICAL]: "Could not pass event 'pocketmine\event\player\PlayerPreLoginEvent' to 'EssentialsPE v2.0.0': Undefined class constant 'DATA_SHOW_NAMETAG' on EssentialsPE\EventHandlers\PlayerEvents
+2018-08-16 [12:28:16] [♥PTK-KienPham♥-CRITICAL]: Error: "Undefined class constant 'DATA_SHOW_NAMETAG'" (EXCEPTION) in "/EssentialsPE_v2.0.0/src/EssentialsPE/BaseFiles/BaseAPI" at line 2154
+2018-08-16 [12:28:21] [♥PTK-KienPham♥-INFO]: honglun789[/14.230.29.25:40685] [ClientID: 3.1111599966254E+17] logged in with entity id 20 at (skyblock, 297.5471, 99.8735, 272.8121)
+2018-08-16 [12:28:21] [♥PTK-KienPham♥-INFO]: There are 2/50 players online:
+2018-08-16 [12:28:21] [♥PTK-KienPham♥-INFO]: [Cấp 1] DiepTubeTM, honglun789
+2018-08-16 [12:28:25] [♥PTK-KienPham♥-INFO]: honglun789 is now AFK
+2018-08-16 [12:28:25] [♥PTK-KienPham♥-INFO]: ༺EnderMiner༻ Các Hành Vi Hack Và Nói Tục Sẽ Bị Sử Phạt Nặng
+2018-08-16 [12:28:34] [♥PTK-KienPham♥-INFO]: [CONSOLE: Stopping the server]
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling essentialsTP v1.1.0
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: [essentialsTP] essentialsTP+ đã bị vô hiệu hóa
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling PurePerms v1.3.5
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling Fly v1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: [Fly] Plugin Fly v1 by KdroidPE desativado.
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling ManyWorlds v2.0.3
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling EconomyAPI v2.0.9
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling EconomyPShop v2.0.2
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling EconomySell v2.0.7
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling EconomyShop v2.0.7
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling SimpleAuth v1.7.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling SimpleAuthHelper v2.0.4
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling MSpawns v1.5
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling AutoInv v1.0.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling superBAR v1.6.2
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling iProtector v3.1a
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling SlapperRotation_Việt_Hóa_By_Sói_Con v1.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling Slapper_Việt_Hóa_By_Sói_Con v1.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling EconomyAirport v2.0.4
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling EconomyAuction v2.0.2
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling EconomyCasino v2.0.2
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling EconomyJob v2.0.4
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling EconomyUsury v1.0.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling MagicWE v0.2.6
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling TheMask v1.0.0
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling DailyReward v1.3
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling WorldProtect v2.2.0
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling AntiServerStop v1.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: [AntiServerStop] AntiServerStop disabled.
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling AntiVoid v1.0.0
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: AntiVoid by KairusDarkSeeker was disabled!
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling Broadcaster v1.16
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling FrameKeeper v1.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling RealTime v2.1.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: [RealTime] RealTime disabled.
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling REDNoBreak v0.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: [REDNoBreak] Plugin đã hủy! Có phải server bạn vừa tắt hay plugin bị lỗi?
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling SETVIP v2.3
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling SignStatus v3.0.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-NOTICE]: [SignStatus] SignStatus disabled
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling Sell v2
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling Feed v1.0.0
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling MineLevel v0.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling Sizer v1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling Healer v1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: [Healer] Healer v1 Đã Tắt
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling BanItem v2.2
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling EssentialsPE v2.0.0
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling BuyEnchant v1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling WingFire v1.3
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling BuyFly v1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling OPList v1.0.2
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling Spawner_By_Ghast v2
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling WorldGuard v1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling xyz v1.0.1
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: [xyz] ❖XYZ❖ XYZ Đã Tắt
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling PureChat v1.4.0
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Disabling SkyBlock v2
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: DiepTubeTM left the game
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: DiepTubeTM[/192.168.1.37:34160] logged out due to Server closed
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: honglun789[/14.230.29.25:40685] logged out due to Server closed
+2018-08-16 [12:28:35] [♥PTK-KienPham♥-INFO]: Unloading level "skyblock"
+2018-08-16 [12:28:36] [♥PTK-KienPham♥-INFO]: Unloading level "nether"
+2018-08-16 [12:28:36] [♥PTK-KienPham♥-INFO]: Unloading level "ender"
+2018-08-16 [12:28:36] [♥PTK-KienPham♥-INFO]: Unloading level "sb"
+2018-08-16 [12:28:41] [♥PTK-KienPham♥-INFO]: Stopping other threads

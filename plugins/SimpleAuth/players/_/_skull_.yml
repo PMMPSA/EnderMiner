@@ -1,0 +1,6 @@
+---
+registerdate: 1534303304
+logindate: 1534303304
+lastip: !php/object "O:21:\"pocketmine\\utils\\UUID\":2:{s:28:\"\0pocketmine\\utils\\UUID\0parts\";a:4:{i:0;i:-1438267499;i:1;i:907751960;i:2;i:-1097382518;i:3;i:347948783;}s:30:\"\0pocketmine\\utils\\UUID\0version\";i:3;}"
+hash: fc79c69a0ac1ef6aa70a7de1854905682cec579596315afb233c95862dad982dff3c197329ed497cb27ac7e5056163e22b543566384d59e701ed2c1eaf9287cc
+...

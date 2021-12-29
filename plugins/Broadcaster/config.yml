@@ -1,0 +1,28 @@
+---
+prefix: ""
+suffix: "§4༺§eEnderMiner§4༻"
+time: 30
+sendmessage-format: "&b[{PREFIX}] {SUFFIX} &a{SENDER}&e>&f {MESSAGE}"
+datetime-format: "H:i:s"
+broadcast-enabled: true
+messages:
+ - "&f{SUFFIX} &aSử Dụng Lệnh /hub Hoặc /lobby Để Trở Về Sảnh Chính"
+ - "&f{SUFFIX} &aSử Dụng Lệnh /mualong Để Mua Lồng Spawn Có Chứa Động Vật"
+ - "&f{SUFFIX} &aVote Cho Server Tại: bit.do/vote-em"
+ - "&f{SUFFIX} &aNạp Thẻ Cho Server Tại: bit.do/napthe-em"
+ - "&f{SUFFIX} &aSử Dụng Lệnh /warp Để Biết Các Warp Của Server Và /warp <Tên Warp> Để Đến Nơi Bạn Muốn"
+ - "&f{SUFFIX} &aVote Cho Server Để Server Phát Triển Hơn"
+ - "&f{SUFFIX} &aHãy Nói Không Với Hack Và Chơi Một Cách Văn Minh"
+ - "&f{SUFFIX} &aChỉ Với 500 Xu Bạn Có Thể Bay Khắp Server Bằng Lệnh /buyfly"
+ - "&f{SUFFIX} &aHãy Nói Chuyện Một Cách Văn Minh Và Không Nói Tục"
+ - "&f{SUFFIX} &aCác Hành Vi Hack Và Nói Tục Sẽ Bị Sử Phạt Nặng"
+ - "&f{SUFFIX} &aCùng Nhau Đi Mua Sắm Bằng Lệnh /warp shop Nào ^^"
+popup-time: 10
+popup-duration: 5
+sendpopup-format: "&a{SENDER}&e>>&f {MESSAGE}"
+popup-broadcast-enabled: true
+popups:
+ - "§c༺§bChúc Bạn Chơi Vui Vẻ§c༻"
+ - "§c༺§bOnline: §e{TOTALPLAYERS}§b/§e{MAXPLAYERS}§c༻"
+ - "§c༺§bThời Gian Hiện Tại: {TIME}§c༻"
+...

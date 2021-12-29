@@ -1,0 +1,19 @@
+---
+show-prefix: true
+show-messages-onjoin: true
+force-hub: false
+enable-hub-message: true
+hub-message: §bChào Mừng §e{PLAYER}§b Đến Với Lobby Server
+force-spawn: false
+teleport-on-death: 1
+enable-spawn-message: true
+spawn-message: §bĐã Dịch Chuyển Tới World {WORLD}
+enable-aliases: true
+hub:
+  world: skyblock
+  X: 91.073400
+  "Y": 70.000000
+  Z: 88.772200
+  Yaw: 92
+  Pitch: 28
+...
